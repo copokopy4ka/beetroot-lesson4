@@ -1,0 +1,67 @@
+body {
+    font-size: 18px;
+    margin: 0;
+}
+
+.container {
+    padding: 0 15px;
+}
+
+/* header 
+==================*/
+header {
+    margin-top: 40px;
+}
+.title {
+    background-color: #a52a2a;
+    text-align: center;
+}
+
+h1 {
+    color: #fff;
+}
+
+/* main 
+==================*/
+
+.sunset img{
+    width: 100%;
+}
+
+.first-link {  
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.cars {
+    text-align: center;
+}
+
+.cars img {
+    border: 3px dashed #000;
+    margin-right: 2px;
+}
+
+.cars img:last-child {
+    margin-right: 0;
+}
+
+.second-link {
+    text-decoration: none;
+}
+
+/* footer 
+==================*/
+
+.footer {
+    background-color: #000;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.footer span {
+    font-size: 20px;
+    color: #fff;
+}
+
